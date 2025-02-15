@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 - 💼 I'm working as a Software Engineer at [Your Company].
 - 🤔 I’m looking for help with open-source contributions in AI projects.
 - 💬 Ask me about JavaScript, Python, AI, and distributed systems.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [im@zatursure.top](mailto:im@zatursure.top)
 - ⚡ Fun fact: I love hiking and photography during my free time.
 
 ## My Skills
@@ -18,7 +18,10 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 - JavaScript
 - Python
 - TypeScript
-- Java
+- Vue
+- C++
+- HTML
+- CSS
 
 ### Frameworks & Libraries
 
@@ -33,6 +36,8 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 - Kubernetes
 - AWS
 - GitHub Actions
+- VSCode
+- Cloudflare
 
 ## GitHub Stats
 
@@ -44,9 +49,12 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 
 ## Get In Touch
 
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Twitter: [twitter.com/yourhandle](https://twitter.com/yourhandle)
-- Personal Website: [yourwebsite.com](https://yourwebsite.com)
+- QQ: 3641481818
+- Email: im@zatursure.top
+- Email(Do not disturb): im_zatursure@outlook.com
+- Email(Do not disturb): im_zatursure@163.com
+- Email(Do not disturb): zatursure@gmail.com
+- Bilibili: [Click Here](https://space.bilibili.com/3546659678063525)
 
 ---
 

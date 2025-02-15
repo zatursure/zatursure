@@ -1,1 +1,54 @@
-![Metrics](https://metrics.lecoq.io/zatursure?template=classic&isocalendar=1&lines=1&topics=1&habits=1&introduction=1&traffic=1&activity=1&followup=1&people=1&reactions=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&reactions=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&traffic=false&introduction=false&introduction.title=true&config.timezone=Asia%2FShanghai)
+# Hi there, I'm Zatursure 👋
+
+Welcome to my GitHub profile! I'm a passionate developer always eager to learn and explore new technologies. Here's a bit about me:
+
+## About Me
+
+- 🌱 I’m currently learning advanced topics in Artificial Intelligence and Machine Learning.
+- 💼 I'm working as a Software Engineer at [Your Company].
+- 🤔 I’m looking for help with open-source contributions in AI projects.
+- 💬 Ask me about JavaScript, Python, AI, and distributed systems.
+- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- ⚡ Fun fact: I love hiking and photography during my free time.
+
+## My Skills
+
+### Languages
+
+- JavaScript
+- Python
+- TypeScript
+- Java
+
+### Frameworks & Libraries
+
+- React
+- Node.js
+- TensorFlow
+- PyTorch
+
+### Tools & Platforms
+
+- Docker
+- Kubernetes
+- AWS
+- GitHub Actions
+
+## GitHub Stats
+
+![Zatursure's GitHub stats](https://github-readme-stats.vercel.app/api?username=zatursure&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zatursure&layout=compact&theme=radical)
+
+## Get In Touch
+
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Twitter: [twitter.com/yourhandle](https://twitter.com/yourhandle)
+- Personal Website: [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+Thanks for visiting my profile! Feel free to reach out to me for collaboration or just to say hi! 😊
+```` ▋

@@ -51,9 +51,6 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 
 - QQ: 3641481818
 - Email: im@zatursure.top
-- Email(Do not disturb): im_zatursure@outlook.com
-- Email(Do not disturb): im_zatursure@163.com
-- Email(Do not disturb): zatursure@gmail.com
 - Bilibili: [Click Here](https://space.bilibili.com/3546659678063525)
 
 ---

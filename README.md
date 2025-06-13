@@ -4,10 +4,8 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 
 ## About Me
 
-- 🌱 I’m currently learning advanced topics in Artificial Intelligence and Machine Learning.
-- 💼 I'm working as a Software Engineer at [Your Company].
-- 🤔 I’m looking for help with open-source contributions in AI projects.
-- 💬 Ask me about JavaScript, Python, AI, and distributed systems.
+- ❤️ I love open-source.
+- 💬 Ask me about JavaScript, Vue, C++ and distributed systems.
 - 📫 How to reach me: [im@zatursure.top](mailto:im@zatursure.top)
 - ⚡ Fun fact: I love hiking and photography during my free time.
 
@@ -55,5 +53,5 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 
 ---
 
-Thanks for visiting my profile! Feel free to reach out to me for collaboration or just to say hi! 😊
+Thanks for visiting my profile! Feel free to reach out to me for collaboration or just to say hi 😶
 ```` ▋

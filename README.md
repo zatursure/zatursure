@@ -46,7 +46,7 @@
 
 ## Top Languages
 
-![Top Languages](https://proxy.zatursure.top/github-readme-stats.vercel.app/api/top-langs/?username=zatursure&layout=compact&theme=radical)
+![Top Languages](https://proxy.zatursure.top/https://github-readme-stats.vercel.app/api/top-langs/?username=zatursure&layout=compact&theme=radical)
 
 ## Get In Touch
 

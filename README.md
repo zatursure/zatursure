@@ -2,15 +2,15 @@
 
 
 
-## About Me
+## About
 
-- ❤️ I love Open Source.
-- ✨ I'm a member of [Unfinished-time](https://github.com/Unfinished-time)
-- 💬 Ask me about JavaScript, Vue, Go and distributed systems.
+- ❤️ I love Open Source
+- ✨ I'm a **owner** of [Unfinished-time](https://github.com/Unfinished-time)
+- 💬 Ask me about JavaScript, Vue, Go and distributed systems
 - 📫 How to reach me: [im@zatursure.top](mailto:im@zatursure.top)
-- ⚡ Fun fact: I love hiking and photography during my free time.
+- ⚡ I love Maths and photography
 
-## My Skills
+## Skills
 
 ### Languages
 
@@ -18,27 +18,7 @@
 - TypeScript
 - Vue
 - C++
-- HTML
-- CSS
 - Go
-
-### Frameworks & Libraries
-
-- React
-- Node.js
-- Bun
-- Go
-- Rust.js
-- NaiveUI
-
-### Tools & Platforms
-
-- Docker
-- GitHub Actions
-- VSCode
-- Cloudflare
-- Visual Studio
-- 
 
 ## GitHub Stats
 
@@ -50,7 +30,7 @@
 
 ## Get In Touch
 
-- QQ: 3641481818 (Do not disturb with fk questions)
+- QQ: 3641481818 (Recommend)
 - Email: im@zatursure.top
 
 ---

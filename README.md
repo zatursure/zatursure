@@ -1,16 +1,24 @@
-## Hi there 👋
+### 主要搞 / Mainly working on:
+- PickUpAPI
+- 一些暂时未开源的小东西
 
-<!--
-**zatursure/zatursure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 也在配合 / Cooperating with:
+- NexyrcPanel
+- OpenFrp Docs
 
-Here are some ideas to get you started:
+### 出没于 / Member of:
+- ZakoDevTeam
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 找我 / Contact me:
+- QQ 3641481818
+- Email zatursure@zako.net.cn
+
+
+## GitHub Status
+
+![GitHub Stats](https://gh-readme.api.zako.net.cn/api?username=zatursure&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![Top Langs](https://gh-readme.api.zako.net.cn/api/top-langs/?username=zatursure&theme=tokyonight&layout=compact&hide_border=true)
+
+## Public Keys
+### GPG: [Click me!](https://github.com/zatursure.gpg)

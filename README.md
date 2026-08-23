@@ -1,6 +1,6 @@
 ### 主要搞 / Mainly working on:
 - NekoLink
-- NaiveUNO
+- NaiveN
 
 ### 也在配合 / Cooperating with:
 - NexyrcPanel

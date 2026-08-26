@@ -31,5 +31,9 @@
 ![GitHub Stats](https://gh-readme.api.zako.net.cn/api?username=zatursure&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://gh-readme.api.zako.net.cn/api/top-langs/?username=zatursure&theme=tokyonight&layout=compact&hide_border=true)
 
+<div align="center">
+    <img src="https://count.getloli.com/@zatursure" alt="MoeCount"/>
+</div>
+
 ## Public Keys
 ### GPG: [Click me!](https://github.com/zatursure.gpg)
